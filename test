@@ -1,2 +1,6 @@
 hello I am GIT
+<<<<<<< HEAD
 This is in master branch
+=======
+Just making changes
+>>>>>>> 52dd0b12dbf797bca250a09b2905588c9322751e
